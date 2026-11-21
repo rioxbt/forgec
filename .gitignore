@@ -1,0 +1,7 @@
+*.o
+.run.json
+.run.err
+.forge.log
+.forge.pid
+__pycache__/
+suite/
